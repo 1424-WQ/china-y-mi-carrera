@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const gastronomiaBtn = document.getElementById("gastronomia");
     if (gastronomiaBtn) {
         gastronomiaBtn.addEventListener("click", () => {
-            window.location.href = "Gastronomia.html";
+            window.location.href = "gastronomia.html";
         });
     }
 
